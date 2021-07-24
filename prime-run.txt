@@ -1,0 +1,6 @@
+wine
+steam
+firefox
+mendeley
+vlc
+teamviewer
